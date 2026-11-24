@@ -1,0 +1,24 @@
+manifestVersion: 1
+id: sharelitix-documenso
+category: files
+name: Documenso
+version: "2.22.0"
+tagline: Sharelitix e-signatures
+icon: https://avatars.githubusercontent.com/u/127681099?s=256&v=4
+description: >-
+  Shortcut tile for the Sharelitix Documenso server, which runs separately
+  as a Portainer stack on port 18090. Opening this tile sends you to it.
+  Removing this tile does not touch Documenso or any documents.
+developer: Sharelitix
+website: https://documenso.com
+dependencies: []
+repo: https://github.com/documenso/documenso
+support: https://github.com/documenso/documenso/issues
+port: 18091
+gallery: []
+path: ""
+defaultUsername: ""
+defaultPassword: ""
+releaseNotes: ""
+submitter: Sharelitix
+submission: ""
