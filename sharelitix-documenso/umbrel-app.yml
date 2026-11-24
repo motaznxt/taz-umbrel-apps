@@ -6,8 +6,7 @@ version: "2.22.0"
 tagline: Sharelitix e-signatures
 icon: https://avatars.githubusercontent.com/u/127681099?s=256&v=4
 description: >-
-  Shortcut tile for the Sharelitix Documenso server, which runs separately
-  as a Portainer stack on port 18090. Opening this tile sends you to it.
+  Shortcut tile for Documenso. Opening this tile takes you to it.
   Removing this tile does not touch Documenso or any documents.
 developer: Sharelitix
 website: https://documenso.com

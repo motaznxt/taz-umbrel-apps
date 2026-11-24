@@ -10,7 +10,7 @@ services:
   web:
     image: nginx:1.27-alpine
     restart: on-failure
-    # Tiny redirect to the Documenso stack (Portainer, port 18090) on the same box.
+    # Tiny redirect to Documenso on the same box.
     # nginx's $host has no port, so this works for local names, Tailscale names and IPs.
     command:
       - /bin/sh
